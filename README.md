@@ -2,6 +2,10 @@
 
 This project focuses on enhancing fault detection and classification in power system transmission lines using machine learning models.
 
+## Project Description
+
+Power system transmission lines are critical infrastructure for delivering electricity, and ensuring their reliable operation is paramount. This project aims to develop and evaluate machine learning models for accurately detecting and classifying faults in transmission lines.
+
 ## Table of Contents
 
 1. **Introduction:**
@@ -71,10 +75,6 @@ The project follows a typical machine learning workflow for fault detection:
 
 7. **Deployment & Monitoring:** Deploy the chosen model for real-time or offline fault detection in a power system. Continuously monitor the model's performance and retrain or adjust it as needed.
 
-
-## Project Description
-
-Power system transmission lines are critical infrastructure for delivering electricity, and ensuring their reliable operation is paramount. This project aims to develop and evaluate machine learning models for accurately detecting and classifying faults in transmission lines.
 
 ## Features
 
